@@ -1,0 +1,52 @@
+html,body{cursor:url("https://1.bp.blogspot.com/-qbWo9mPKO2Y/YL9utYdQBdI/AAAAAAAAFs4/mtjGu6u2uGwtJsT4gZG4lbhLV1a5lG6OQCLcBGAsYHQ/s0/mouse-f1.png"), auto;}
+table{
+    position: absolute;
+    border-collapse:collapse;
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    font-size: 80px;
+ }
+ table, th, td{
+    border:2px solid #1F2739;
+}
+th{
+    text-align: left;
+    color: #185875; 
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color:#1F2739;
+}
+h1{
+    position: absolute;
+    left:500px; 
+    font-size: 100px;;
+    color: #FFF842;
+}
+td{
+    color: #FB667A;
+    background-color: #323C50;
+    text-align: center;
+}
+td,th{
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-left:2%;
+}
+td:hover {
+    background-color: #FFF842;
+    color: #403E10;
+    font-weight: bold;
+    
+    box-shadow: #7F7C21 -1px 1px, #7F7C21 -2px 2px, #7F7C21 -3px 3px, #7F7C21 -4px 4px, #7F7C21 -5px 5px, #7F7C21 -6px 6px;
+    transform: translate3d(6px, -6px, 0);
+    
+    transition-delay: 0s;
+      transition-duration: 0.4s;
+      transition-property: all;
+    transition-timing-function: line;
+  }
+  body{
+    width: 100vh;
+}
